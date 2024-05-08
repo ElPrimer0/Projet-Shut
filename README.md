@@ -15,7 +15,7 @@ Ce script JavaScript permet de télécharger automatiquement des pages de prévi
 1. Ouvrez la console JavaScript dans votre navigateur (par exemple, dans Chrome, utilisez `Ctrl + Maj + J`).
 2. Copiez le code du script.
 3. Assurez-vous d'être sur une page Google Books où un livre est en prévisualisation. Par exemple celle-la :
-4. 
+   
    https://books.google.cd/books?id=dig2DwAAQBAJ&printsec=frontcover&hl=fr&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
    
 6. Collez le code dans la console et appuyez sur `Entrée`.
@@ -43,7 +43,7 @@ Ce script JavaScript automatise le téléchargement des pages de prévisualisati
    - Copiez le code du script dans la console.
 3. **Démarrer le Téléchargement**:
    - Assurez-vous d'être sur une page Google Books où un livre est en prévisualisation. Par exemple celle-la :
-   - 
+     
      https://books.google.cd/books?id=dig2DwAAQBAJ&printsec=frontcover&hl=fr&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
      
    - Tapez `gbppd.start()` dans la console et appuyez sur `Entrée`. Cela commencera l'observation des mutations et le défilement automatique.
