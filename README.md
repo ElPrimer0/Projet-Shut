@@ -1,4 +1,4 @@
-## Projet-Shut / FILE1
+## Projet-Shut / FILE1.js
 
 Ce script JavaScript permet de télécharger automatiquement des pages de prévisualisation de Google Books. Il utilise des techniques d'interaction avec le Document Object Model (DOM) pour détecter et télécharger des images de pages de livres affichées dans la prévisualisation de Google Books.
 
@@ -26,7 +26,7 @@ Ce script JavaScript permet de télécharger automatiquement des pages de prévi
 Seulement les deux premieres pages sont telechargees. 
 
 
-## Projet-Shut / FILE2
+## Projet-Shut / FILE2.js
 
 Ce script JavaScript automatise le téléchargement des pages de prévisualisation de Google Books. Le script utilise des techniques d'observation des mutations (MutationObserver) pour détecter et capturer des images des pages de prévisualisation, ainsi qu'un mécanisme de défilement automatique pour parcourir le contenu de Google Books.
 
